@@ -1,0 +1,120 @@
+@import "loader.scss";
+@import "map.scss";
+@import "chess.scss";
+@import "sapper.scss";
+
+* {
+  outline: none;
+}
+
+button {
+  white-space: nowrap;
+}
+
+body {
+  margin: 0;
+}
+
+/*hide runtime errors*/
+body > iframe {
+  display: none;
+}
+
+.title:first-letter {
+  text-transform: uppercase;
+}
+
+.item {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.item:hover {
+  cursor: pointer;
+}
+
+.column {
+  padding: 8px;
+  width: 300px;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+.column:hover {
+  cursor: pointer;
+}
+
+.slick-slide {
+  height: 80vh;
+}
+
+//.slick-track {
+//  display: flex !important;
+//}
+
+.slick-slide > div > div {
+  display: flex !important;
+  justify-content: center;
+}
+
+.slider-image {
+  width: auto;
+  height: auto;
+  max-height: 80vh;
+  max-width: 100%;
+}
+
+input:-webkit-autofill,
+.MuiInputBase-root:has(> input:-webkit-autofill) {
+  background-color: #256798;
+}
+
+.MuiInputAdornment-filled {
+  margin-top: 0 !important;
+}
+
+.call-img-container {
+  animation: expand .7s forwards;
+}
+
+.call-img {
+  animation: shaking .5s infinite;
+  animation-delay: 1s;
+}
+
+@keyframes expand {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes shaking {
+  0% {
+    transform: rotate(0deg);
+  }
+  7% {
+    transform: rotate(1deg);
+  }
+  14% {
+    transform: rotate(0deg);
+  }
+  21% {
+    transform: rotate(-1deg);
+  }
+  28% {
+    transform: rotate(0deg);
+  }
+}
+
+.menu-item {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.menu-item:hover {
+  background-color: #656565;
+}

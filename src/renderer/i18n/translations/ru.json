@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "login": {
+      "loginTitle": "Авторизоваться",
+      "email": "Адрес электронной почты",
+      "password": "Пароль",
+      "dontHaveAnAccount": "У вас нет учетной записи?",
+      "forgotPassword": "Забыли пароль?"
+    },
+    "register": {
+      "registerTitle": "Регистрация",
+      "email": "Адрес электронной почты",
+      "password": "Пароль",
+      "haveAnAccount": "Есть аккаунт?",
+      "forgotPassword": "Забыли пароль?"
+    },
+    "profile": {
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "profileImage": "Фото профиля",
+      "updateEmail": "Обновить адрес электронной почты",
+      "currentPassword": "Текущий пароль",
+      "newPassword": "Новый пароль",
+      "repeatPassword": "Повторите пароль",
+      "updatePassword": "Обновить пароль",
+      "updateProfileIcon": "Обноввить фото профиля",
+      "uploadFile": "Загрузить файл"
+    },
+    "settings": {
+      "tabs": {
+        "general": {
+          "title": "Общее",
+          "languageTitle": "Язык",
+          "openDrawerOnMouseHover": "Открывать меню с помощью мыши"
+        },
+        "notifications": {
+          "title": "Уведомления",
+          "subscribe": "Подписаться",
+          "unsubscribe": "Отписаться"
+        },
+        "startScreen": {
+          "title": "Стартовый экран",
+          "startScreenTitle": "Стартовый экран",
+          "mixed": "Смешанный",
+          "didYouKnow": "А Вы знали",
+          "irregularVerbs": "Неправильные глаголы",
+          "symbolsPerSecond": "Символов в секунду"
+        }
+      }
+    }
+  },
+  "notifications": {
+    "changesSaved": "Изменения были сохранены"
+  },
+  "didYouKnow": "А Вы знали?",
+  "irregularVerbsTime": "Время неправильных глаголов",
+  "navbar": {
+    "menu": {
+      "profile": "Профиль",
+      "skins": "Оболочек",
+      "achievements": "Достижения",
+      "adminPanel": "Панель администратора",
+      "settings": "Настройки",
+      "logOut": "Выйти"
+    }
+  },
+  "drawer": {
+    "recognize": "Распознавать",
+    "imageRecognize": "Распознавание изображений",
+    "videoRecognize": "Распознавание видео",
+    "audioTune": "Аудио мелодия",
+    "download": "Скачать",
+    "fromClipboard": "Из буфера обмена",
+    "youtube": "YouTube",
+    "youtubeAudio": "YouTube Аудио",
+    "ytFromPlaylist": "YouTube из плейлиста",
+    "tikTok": "TikTok",
+    "notes": "Заметки",
+    "trelloBoards": "Доски Трелло",
+    "imageSlider": "Слайдер изображений",
+    "games": "Игры"
+  }
+}

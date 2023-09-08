@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "login": {
+      "loginTitle": "Login",
+      "email": "Email Address",
+      "password": "Password",
+      "dontHaveAnAccount": "Don't have an account? Register",
+      "forgotPassword": "Forgot password?"
+    },
+    "register": {
+      "registerTitle": "Register",
+      "email": "Email Address",
+      "password": "Password",
+      "haveAnAccount": "Have an account? Login",
+      "forgotPassword": "Forgot password?"
+    },
+    "profile": {
+      "email": "Email",
+      "password": "Password",
+      "profileImage": "Profile image",
+      "updateEmail": "Update email",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "repeatPassword": "Repeat password",
+      "updatePassword": "Update password",
+      "updateProfileIcon": "Update profile icon",
+      "uploadFile": "Upload file"
+    },
+    "settings": {
+      "tabs": {
+        "general": {
+          "title": "General",
+          "languageTitle": "Language",
+          "openDrawerOnMouseHover": "Open drawer on mouse hover"
+        },
+        "notifications": {
+          "title": "Notifications",
+          "subscribe": "Subscribe",
+          "unsubscribe": "Unsubscribe"
+        },
+        "startScreen": {
+          "title": "Start Screen",
+          "startScreenTitle": "Start Screen",
+          "mixed": "Mixed",
+          "didYouKnow": "Did you know",
+          "irregularVerbs": "Irregular Verbs",
+          "symbolsPerSecond": "Symbols Per Second"
+        }
+      }
+    }
+  },
+  "notifications": {
+    "changesSaved": "Changes have been saved"
+  },
+  "didYouKnow": "Did you know?",
+  "irregularVerbsTime": "Irregular Verbs Time",
+  "navbar": {
+    "menu": {
+      "profile": "Profile",
+      "skins": "Skins",
+      "achievements": "Achievements",
+      "adminPanel": "Admin panel",
+      "settings": "Settings",
+      "logOut": "Log out"
+    }
+  },
+  "drawer": {
+    "recognize": "Recognize",
+    "imageRecognize": "Image recognize",
+    "videoRecognize": "Video recognize",
+    "audioTune": "Audio tune",
+    "download": "Download",
+    "fromClipboard": "From clipboard",
+    "youtube": "Youtube",
+    "youtubeAudio": "Youtube Audio",
+    "ytFromPlaylist": "YT from playlist",
+    "tikTok": "TikTok",
+    "notes": "Notes",
+    "trelloBoards": "Trello boards",
+    "imageSlider": "Image slider",
+    "games": "Games"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "login": {
+      "loginTitle": "Авторизоватися",
+      "email": "Адреса електронної пошти",
+      "password": "Пароль",
+      "dontHaveAnAccount": "Немає облікового запису?",
+      "forgotPassword": "Забули пароль?"
+    },
+    "register": {
+      "registerTitle": "Зареєструватися",
+      "email": "Адреса електронної пошти",
+      "password": "Пароль",
+      "haveAnAccount": "Є обліковий запис?",
+      "forgotPassword": "Забули пароль?"
+    },
+    "profile": {
+      "email": "Електронна пошта",
+      "password": "Пароль",
+      "profileImage": "Фото профілю",
+      "updateEmail": "Оновити електронну адресу",
+      "currentPassword": "Поточний пароль",
+      "newPassword": "Новий пароль",
+      "repeatPassword": "Повторіть пароль",
+      "updatePassword": "Оновити пароль",
+      "updateProfileIcon": "Оновити фото профілю",
+      "uploadFile": "Загрузити фото"
+    },
+    "settings": {
+      "tabs": {
+        "general": {
+          "title": "Загальне",
+          "languageTitle": "Мова",
+          "openDrawerOnMouseHover": "Відкривати меню за допомогою миші"
+        },
+        "notifications": {
+          "title": "Сповіщення",
+          "subscribe": "Підписатися",
+          "unsubscribe": "Відписатися"
+        },
+        "startScreen": {
+          "title": "Початковий екран",
+          "startScreenTitle": "Початковий екран",
+          "mixed": "Змішаний",
+          "didYouKnow": "Ти знав",
+          "irregularVerbs": "Неправильні дієслова",
+          "symbolsPerSecond": "Символів за секунду"
+        }
+      }
+    }
+  },
+  "notifications": {
+    "changesSaved": "Зміни збережено"
+  },
+  "didYouKnow": "Ти знав?",
+  "irregularVerbsTime": "Час неправильних дієслів",
+  "navbar": {
+    "menu": {
+      "profile": "Профіль",
+      "skins": "Скіни",
+      "achievements": "Досягнення",
+      "adminPanel": "Панель адміністратора",
+      "settings": "Налаштування",
+      "logOut": "Вийти"
+    }
+  },
+  "drawer": {
+    "recognize": "Розпізнати",
+    "imageRecognize": "Розпізнавання зображення",
+    "videoRecognize": "Розпізнавання відео",
+    "audioTune": "Аудіо мелодія",
+    "download": "Завантажити",
+    "fromClipboard": "З буфера обміну",
+    "youtube": "Youtube",
+    "youtubeAudio": "Youtube Audio",
+    "ytFromPlaylist": "YT із списку плейлісту",
+    "tikTok": "TikTok",
+    "notes": "Примітки",
+    "trelloBoards": "Дошки Trello",
+    "imageSlider": "Слайдер зображень",
+    "games": "Ігри"
+  }
+}

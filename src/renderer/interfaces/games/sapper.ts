@@ -1,0 +1,9 @@
+export enum SAPPER_FIGURE_NAME {
+  'MINE' = 'MINE',
+}
+
+export enum SAPPER_GAME_STATUS {
+  'IN_PROGRESS' = 'IN_PROGRESS',
+  'GAME_WIN' = 'GAME_WIN',
+  'GAME_LOSE' = 'GAME_LOSE',
+}

@@ -1,0 +1,3098 @@
+[
+  {
+    "words": [
+      "abide",
+      "abode / abided",
+      "abode / abided"
+    ],
+    "translate": "терпеть, выносить; придерживаться чего-либо, быть верным"
+  },
+  {
+    "words": [
+      "arise",
+      "arose",
+      "arisen"
+    ],
+    "translate": "возникать, подниматься"
+  },
+  {
+    "words": [
+      "awake",
+      "awaked / awoke",
+      "awaked / awoken"
+    ],
+    "translate": "будить,&nbsp;&nbsp;вызывать, просыпаться, понимать"
+  },
+  {
+    "words": [
+      "backslide",
+      "backslid",
+      "backslidden / backslid"
+    ],
+    "translate": "отступаться от веры, снова предаваться пороку"
+  },
+  {
+    "words": [
+      "be",
+      "was, were",
+      "been"
+    ],
+    "translate": "быть, являться"
+  },
+  {
+    "words": [
+      "bear",
+      "bore / beared",
+      "born / borne / beared"
+    ],
+    "translate": "нести, выносить, держать, питать чувство"
+  },
+  {
+    "words": [
+      "beat",
+      "beat",
+      "beaten / beat"
+    ],
+    "translate": "бить, побеждать"
+  },
+  {
+    "words": [
+      "become",
+      "became",
+      "become"
+    ],
+    "translate": "становиться, делаться"
+  },
+  {
+    "words": [
+      "befall",
+      "befell",
+      "befallen"
+    ],
+    "translate": "случаться, приключаться"
+  },
+  {
+    "words": [
+      "begin",
+      "began",
+      "begun"
+    ],
+    "translate": "начинать"
+  },
+  {
+    "words": [
+      "behold",
+      "beheld",
+      "beheld"
+    ],
+    "translate": "увидеть,&nbsp;заметить, созерцать, наблюдать"
+  },
+  {
+    "words": [
+      "bend",
+      "bent",
+      "bent"
+    ],
+    "translate": "гнуть, сгибать"
+  },
+  {
+    "words": [
+      "bereave",
+      "bereft /&nbsp;bereaved",
+      "bereft /&nbsp;bereaved"
+    ],
+    "translate": "лишать, отнимать, отбирать"
+  },
+  {
+    "words": [
+      "beseech",
+      "besought/beseeched",
+      "besought/beseeched"
+    ],
+    "translate": "умолять, просить, упрашивать"
+  },
+  {
+    "words": [
+      "beset",
+      "beset&nbsp;",
+      "beset&nbsp;"
+    ],
+    "translate": "окружать, осаждать, преграждать"
+  },
+  {
+    "words": [
+      "bet",
+      "bet /&nbsp;betted&nbsp;",
+      "bet /&nbsp;betted&nbsp;"
+    ],
+    "translate": "держать пари, быть уверенным"
+  },
+  {
+    "words": [
+      "bid",
+      "bid / bade",
+      "bidden"
+    ],
+    "translate": "приглашать, приветствовать, прощаться"
+  },
+  {
+    "words": [
+      "bid",
+      "bid",
+      "bid"
+    ],
+    "translate": "предлагать цену, велеть, просить"
+  },
+  {
+    "words": [
+      "bide",
+      "bode / bided",
+      "bided"
+    ],
+    "translate": "ждать, выжидать, оставаться, находиться"
+  },
+  {
+    "words": [
+      "bind",
+      "bound",
+      "bound"
+    ],
+    "translate": "связывать"
+  },
+  {
+    "words": [
+      "bite",
+      "bit",
+      "bitten"
+    ],
+    "translate": "кусать, клевать, жалить"
+  },
+  {
+    "words": [
+      "bleed",
+      "bled",
+      "bled"
+    ],
+    "translate": "кровоточить, истекать кровью"
+  },
+  {
+    "words": [
+      "bless",
+      "blessed / blest",
+      "blessed / blest"
+    ],
+    "translate": "благословлять, одаривать, перекрестить"
+  },
+  {
+    "words": [
+      "blow",
+      "blew",
+      "blown"
+    ],
+    "translate": "дуть, веять, задувать, выдувать, взрывать"
+  },
+  {
+    "words": [
+      "break",
+      "broke",
+      "broken"
+    ],
+    "translate": "ломать, прерывать, разбивать"
+  },
+  {
+    "words": [
+      "breed",
+      "bred",
+      "bred"
+    ],
+    "translate": "выводить, вскармливать, размножаться, порождать"
+  },
+  {
+    "words": [
+      "bring",
+      "brought",
+      "brought"
+    ],
+    "translate": "приносить, приводить, доводить"
+  },
+  {
+    "words": [
+      "broadcast",
+      "broadcast / broadcasted",
+      "broadcast / broadcasted"
+    ],
+    "translate": "вещать, распространять, передавать по радио"
+  },
+  {
+    "words": [
+      "build",
+      "built",
+      "built"
+    ],
+    "translate": "строить, сооружать"
+  },
+  {
+    "words": [
+      "burn",
+      "burned / burnt",
+      "burned / burnt"
+    ],
+    "translate": "гореть, сжигать"
+  },
+  {
+    "words": [
+      "burst",
+      "burst",
+      "burst"
+    ],
+    "translate": "лопаться, взрываться, быть переполненным, появиться"
+  },
+  {
+    "words": [
+      "bust",
+      "busted / bust",
+      "busted / bust"
+    ],
+    "translate": "сломать, разрушать, разориться, бить"
+  },
+  {
+    "words": [
+      "buy",
+      "bought",
+      "bought"
+    ],
+    "translate": "покупать"
+  },
+  {
+    "words": [
+      "cast",
+      "cast",
+      "cast"
+    ],
+    "translate": "бросать, отбрасывать, уволить, отливать (метал)"
+  },
+  {
+    "words": [
+      "catch",
+      "caught",
+      "caught"
+    ],
+    "translate": "поймать, ловить, догнать"
+  },
+  {
+    "words": [
+      "chide",
+      "chided / chid",
+      "chided / chid / chidden"
+    ],
+    "translate": "распекать, ругать, бранить, реветь"
+  },
+  {
+    "words": [
+      "choose",
+      "chose",
+      "chosen"
+    ],
+    "translate": "выбирать"
+  },
+  {
+    "words": [
+      "cleave",
+      "cleft&nbsp;/ clove",
+      "cleft / cloven&nbsp;"
+    ],
+    "translate": "раскалывать, рассекать"
+  },
+  {
+    "words": [
+      "cling",
+      "clung",
+      "clung"
+    ],
+    "translate": "цепляться, держаться, липнуть"
+  },
+  {
+    "words": [
+      "clothe",
+      "clothed / clad",
+      "clothed / clad"
+    ],
+    "translate": "одеть, одевать, выражать, одарять"
+  },
+  {
+    "words": [
+      "come",
+      "came",
+      "come"
+    ],
+    "translate": "приходить"
+  },
+  {
+    "words": [
+      "cost",
+      "cost",
+      "cost"
+    ],
+    "translate": "оценивать, стоить"
+  },
+  {
+    "words": [
+      "creep",
+      "crept",
+      "crept"
+    ],
+    "translate": "ползать, красться, охватывать, наводить ужас"
+  },
+  {
+    "words": [
+      "crossbreed",
+      "crossbred",
+      "crossbred"
+    ],
+    "translate": "скрещивать"
+  },
+  {
+    "words": [
+      "cut",
+      "cut",
+      "cut"
+    ],
+    "translate": "резать, обрезать"
+  },
+  {
+    "words": [
+      "dare",
+      "durst&nbsp;",
+      "dared&nbsp;"
+    ],
+    "translate": "сметь,&nbsp;бросать вызов, рисковать"
+  },
+  {
+    "words": [
+      "daydream",
+      "daydreamed / daydreamt",
+      "daydreamed / daydreamt"
+    ],
+    "translate": "грезить наяву, мечтать, фантазировать"
+  },
+  {
+    "words": [
+      "deal",
+      "dealt",
+      "dealt"
+    ],
+    "translate": "иметь дело, торговать, рассматривать вопрос"
+  },
+  {
+    "words": [
+      "dig",
+      "dug",
+      "dug"
+    ],
+    "translate": "копать, рыть, искать"
+  },
+  {
+    "words": [
+      "disprove",
+      "disproved",
+      "disproved / disproven"
+    ],
+    "translate": "опровергать, доказывать ложность"
+  },
+  {
+    "words": [
+      "dive",
+      "dove / dived",
+      "dived"
+    ],
+    "translate": "нырять, прыгать вниз, окунаться"
+  },
+  {
+    "words": [
+      "do",
+      "did",
+      "done"
+    ],
+    "translate": "делать, выполнять"
+  },
+  {
+    "words": [
+      "draw",
+      "drew",
+      "drawn"
+    ],
+    "translate": "чертить, рисовать, представлять; тащить, тянуть&nbsp;"
+  },
+  {
+    "words": [
+      "dream",
+      "dreamed / dreamt",
+      "dreamed / dreamt"
+    ],
+    "translate": "видеть сны, мечтать"
+  },
+  {
+    "words": [
+      "drink",
+      "drank",
+      "drunk"
+    ],
+    "translate": "пить, выпивать"
+  },
+  {
+    "words": [
+      "drive",
+      "drove",
+      "driven"
+    ],
+    "translate": "водить (машину), управлять, ездить"
+  },
+  {
+    "words": [
+      "dwell",
+      "dwelt / dwelled",
+      "dwelt / dwelled"
+    ],
+    "translate": "жить, обитать, пребывать, останавливаться"
+  },
+  {
+    "words": [
+      "eat",
+      "ate",
+      "eaten"
+    ],
+    "translate": "есть, принимать пищу, кушать"
+  },
+  {
+    "words": [
+      "fall",
+      "fell",
+      "fallen"
+    ],
+    "translate": "падать, опадать, опускаться"
+  },
+  {
+    "words": [
+      "feed",
+      "fed",
+      "fed"
+    ],
+    "translate": "кормить"
+  },
+  {
+    "words": [
+      "feel",
+      "felt",
+      "felt"
+    ],
+    "translate": "чувствовать"
+  },
+  {
+    "words": [
+      "fight",
+      "fought",
+      "fought"
+    ],
+    "translate": "бороться, сражаться"
+  },
+  {
+    "words": [
+      "find",
+      "found",
+      "found"
+    ],
+    "translate": "находить, обнаруживать"
+  },
+  {
+    "words": [
+      "fit",
+      "fitted / fit",
+      "fitted / fit"
+    ],
+    "translate": "подгонять, прилаживать, приспосабливать,&nbsp;оснащать"
+  },
+  {
+    "words": [
+      "flee",
+      "fled",
+      "fled"
+    ],
+    "translate": "бежать, спасаться бегством"
+  },
+  {
+    "words": [
+      "fling",
+      "flung",
+      "flung"
+    ],
+    "translate": "кидать, бросать"
+  },
+  {
+    "words": [
+      "fly",
+      "flew",
+      "flown"
+    ],
+    "translate": "летать, пролетать"
+  },
+  {
+    "words": [
+      "forbear",
+      "forbore",
+      "forborne"
+    ],
+    "translate": "сдерживаться, воздерживаться, быть выдержанным"
+  },
+  {
+    "words": [
+      "forbid",
+      "forbade",
+      "forbidden"
+    ],
+    "translate": "запрещать"
+  },
+  {
+    "words": [
+      "forecast",
+      "forecast",
+      "forecast"
+    ],
+    "translate": "прогнозировать,&nbsp;предсказывать"
+  },
+  {
+    "words": [
+      "forego",
+      "forewent",
+      "foregone"
+    ],
+    "translate": "предшествовать, идти впереди"
+  },
+  {
+    "words": [
+      "foresee",
+      "foresaw",
+      "foreseen"
+    ],
+    "translate": "предвидеть, предугадывать"
+  },
+  {
+    "words": [
+      "foretell",
+      "foretold",
+      "foretold"
+    ],
+    "translate": "предсказывать, прогнозировать"
+  },
+  {
+    "words": [
+      "forget",
+      "forgot",
+      "forgotten /&nbsp;forgot"
+    ],
+    "translate": "забывать"
+  },
+  {
+    "words": [
+      "forgive",
+      "forgave",
+      "forgiven"
+    ],
+    "translate": "прощать, забыть (долг)"
+  },
+  {
+    "words": [
+      "forgo",
+      "forwent&nbsp;",
+      "forgone&nbsp;"
+    ],
+    "translate": "отказываться, воздерживаться"
+  },
+  {
+    "words": [
+      "forsake",
+      "forsook",
+      "forsaken"
+    ],
+    "translate": "бросать, оставлять, отказываться"
+  },
+  {
+    "words": [
+      "forswear",
+      "forswore",
+      "forsworn"
+    ],
+    "translate": "отказываться, отрекаться"
+  },
+  {
+    "words": [
+      "freeze",
+      "froze",
+      "frozen"
+    ],
+    "translate": "замерзать, замораживать"
+  },
+  {
+    "words": [
+      "frostbite",
+      "frostbit",
+      "frostbitten"
+    ],
+    "translate": "обморозить, отморозить"
+  },
+  {
+    "words": [
+      "get",
+      "got",
+      "gotten /&nbsp;got"
+    ],
+    "translate": "получать, становиться"
+  },
+  {
+    "words": [
+      "gild",
+      "gilded / gilt",
+      "gilded / gilt"
+    ],
+    "translate": "золотить, покрывать позолотой, украшать"
+  },
+  {
+    "words": [
+      "give",
+      "gave",
+      "given"
+    ],
+    "translate": "давать"
+  },
+  {
+    "words": [
+      "go",
+      "went",
+      "gone"
+    ],
+    "translate": "идти, ехать"
+  },
+  {
+    "words": [
+      "grind",
+      "ground",
+      "ground"
+    ],
+    "translate": "молоть, растереть, шлифовать, точить"
+  },
+  {
+    "words": [
+      "grow",
+      "grew",
+      "grown"
+    ],
+    "translate": "расти, выращивать"
+  },
+  {
+    "words": [
+      "hand-feed",
+      "hand-fed",
+      "hand-fed"
+    ],
+    "translate": "подавать вручную"
+  },
+  {
+    "words": [
+      "handwrite",
+      "handwrote",
+      "handwritten"
+    ],
+    "translate": "писать вручную"
+  },
+  {
+    "words": [
+      "hang",
+      "hung",
+      "hung"
+    ],
+    "translate": "висеть, вешать"
+  },
+  {
+    "words": [
+      "have",
+      "had",
+      "had"
+    ],
+    "translate": "иметь, обладать"
+  },
+  {
+    "words": [
+      "hear",
+      "heard",
+      "heard"
+    ],
+    "translate": "слышать, слушать"
+  },
+  {
+    "words": [
+      "heave",
+      "heaved / hove",
+      "heaved / hove"
+    ],
+    "translate": "поднимать, перемещать, вздыматься, напрягаться"
+  },
+  {
+    "words": [
+      "hew",
+      "hewed",
+      "hewn / hewed"
+    ],
+    "translate": "рубить, тесать, отбывать,&nbsp;согласовываться"
+  },
+  {
+    "words": [
+      "hide",
+      "hid",
+      "hidden"
+    ],
+    "translate": "прятать, прятаться"
+  },
+  {
+    "words": [
+      "hit",
+      "hit",
+      "hit"
+    ],
+    "translate": "ударять, поражать"
+  },
+  {
+    "words": [
+      "hold",
+      "held",
+      "held"
+    ],
+    "translate": "занимать, держать, удерживать"
+  },
+  {
+    "words": [
+      "hurt",
+      "hurt",
+      "hurt"
+    ],
+    "translate": "повредить, причинять боль, ранить"
+  },
+  {
+    "words": [
+      "inbreed",
+      "inbred",
+      "inbred"
+    ],
+    "translate": "взращивать, воспитывать что-то в ком-то"
+  },
+  {
+    "words": [
+      "inlay",
+      "inlaid",
+      "inlaid"
+    ],
+    "translate": "инкрустировать, делать вставку"
+  },
+  {
+    "words": [
+      "input",
+      "input / inputted",
+      "input / inputted"
+    ],
+    "translate": "ввести, вводить, вкладывать (деньги)"
+  },
+  {
+    "words": [
+      "interbreed",
+      "interbred",
+      "interbred"
+    ],
+    "translate": "скрещивать, скрещиваться"
+  },
+  {
+    "words": [
+      "interweave",
+      "interwove / interweaved",
+      "interwoven / interweaved"
+    ],
+    "translate": "cплетать, переплетать, смешивать, воткать"
+  },
+  {
+    "words": [
+      "interwind",
+      "interwound",
+      "interwound"
+    ],
+    "translate": "переплетать, перематывать"
+  },
+  {
+    "words": [
+      "jerry-build",
+      "jerry-built",
+      "jerry-built"
+    ],
+    "translate": "построить на скорую руку, кое-как"
+  },
+  {
+    "words": [
+      "keep",
+      "kept",
+      "kept"
+    ],
+    "translate": "держать, сохранять, хранить"
+  },
+  {
+    "words": [
+      "kneel",
+      "knelt / kneeled",
+      "knelt / kneeled"
+    ],
+    "translate": "становиться на колени"
+  },
+  {
+    "words": [
+      "knit",
+      "knitted / knit",
+      "knitted / knit"
+    ],
+    "translate": "вязать, штопать"
+  },
+  {
+    "words": [
+      "know",
+      "knew",
+      "known"
+    ],
+    "translate": "знать, уметь, быть знакомым"
+  },
+  {
+    "words": [
+      "lay",
+      "laid",
+      "laid"
+    ],
+    "translate": "класть, валить, накрывать"
+  },
+  {
+    "words": [
+      "lead",
+      "led",
+      "led"
+    ],
+    "translate": "вести, сопровождать"
+  },
+  {
+    "words": [
+      "lean",
+      "leaned / leant&nbsp;",
+      "leaned / leant&nbsp;"
+    ],
+    "translate": "опираться, наклоняться, прислоняться"
+  },
+  {
+    "words": [
+      "leap",
+      "leaped / leapt",
+      "leaped / leapt"
+    ],
+    "translate": "прыгать, скакать"
+  },
+  {
+    "words": [
+      "learn",
+      "learned / learnt",
+      "learned / learnt"
+    ],
+    "translate": "учиться, узнавать"
+  },
+  {
+    "words": [
+      "leave",
+      "left",
+      "left"
+    ],
+    "translate": "оставлять, уезжать"
+  },
+  {
+    "words": [
+      "lend",
+      "lent",
+      "lent"
+    ],
+    "translate": "одалживать, давать взаймы, занимать"
+  },
+  {
+    "words": [
+      "let",
+      "let",
+      "let"
+    ],
+    "translate": "позволять, допускать, выпускать, проливать"
+  },
+  {
+    "words": [
+      "lie",
+      "lay",
+      "lain"
+    ],
+    "translate": "лежать, распологаться, находиться"
+  },
+  {
+    "words": [
+      "light",
+      "lit / lighted",
+      "lit / lighted"
+    ],
+    "translate": "натолкнуться, обрушиться, освещать, зажигать, светиться"
+  },
+  {
+    "words": [
+      "lip-read",
+      "lip-read",
+      "lip-read"
+    ],
+    "translate": "читать с губ, понимать по губам"
+  },
+  {
+    "words": [
+      "lose",
+      "lost",
+      "lost"
+    ],
+    "translate": "терять, утрачивать, избавляться, пропадать"
+  },
+  {
+    "words": [
+      "make",
+      "made",
+      "made"
+    ],
+    "translate": "делать, производить, совершать"
+  },
+  {
+    "words": [
+      "mean",
+      "meant",
+      "meant"
+    ],
+    "translate": "значить, подразумевать"
+  },
+  {
+    "words": [
+      "meet",
+      "met",
+      "met"
+    ],
+    "translate": "встречать, знакомиться"
+  },
+  {
+    "words": [
+      "miscast",
+      "miscast",
+      "miscast"
+    ],
+    "translate": "неправильно распределять роли"
+  },
+  {
+    "words": [
+      "misdeal",
+      "misdealt",
+      "misdealt"
+    ],
+    "translate": "ошибаться при сдаче"
+  },
+  {
+    "words": [
+      "misdo",
+      "misdid",
+      "misdone"
+    ],
+    "translate": "делать неправильно, небрежно"
+  },
+  {
+    "words": [
+      "mishear",
+      "misheard",
+      "misheard"
+    ],
+    "translate": "ослышаться, не расслышать"
+  },
+  {
+    "words": [
+      "mislay",
+      "mislaid",
+      "mislaid"
+    ],
+    "translate": "положить не на место, затерять"
+  },
+  {
+    "words": [
+      "mislead",
+      "misled",
+      "misled"
+    ],
+    "translate": "вводить в заблуждение, сбивать с пути"
+  },
+  {
+    "words": [
+      "mislearn",
+      "mislearned / mislearnt",
+      "mislearned / mislearnt"
+    ],
+    "translate": "обучаться, учить&nbsp;неправильно"
+  },
+  {
+    "words": [
+      "misread",
+      "misread",
+      "misread"
+    ],
+    "translate": "прочитать неправильно, неправильно понять"
+  },
+  {
+    "words": [
+      "missay",
+      "missaid",
+      "missaid"
+    ],
+    "translate": "оговориться, сказать неправильно"
+  },
+  {
+    "words": [
+      "misset",
+      "misset",
+      "misset"
+    ],
+    "translate": "неправильно установить"
+  },
+  {
+    "words": [
+      "misspeak",
+      "misspoke",
+      "misspoken"
+    ],
+    "translate": "говорить, произносить неправильно"
+  },
+  {
+    "words": [
+      "misspell",
+      "misspelled / misspelt",
+      "misspelled / misspelt"
+    ],
+    "translate": "писать с ошибками, делать орфографические ошибки"
+  },
+  {
+    "words": [
+      "misspend",
+      "misspent",
+      "misspent"
+    ],
+    "translate": "неразумно тратить, транжирить"
+  },
+  {
+    "words": [
+      "misswear",
+      "misswore",
+      "missworn"
+    ],
+    "translate": "давать ложную клятву"
+  },
+  {
+    "words": [
+      "mistake",
+      "mistook",
+      "mistaken"
+    ],
+    "translate": "ошибаться, заблуждаться"
+  },
+  {
+    "words": [
+      "misteach",
+      "mistaught",
+      "mistaught"
+    ],
+    "translate": "неправильно обучать"
+  },
+  {
+    "words": [
+      "misunderstand",
+      "misunderstood",
+      "misunderstood"
+    ],
+    "translate": "не понимать, понять неправильно"
+  },
+  {
+    "words": [
+      "miswrite",
+      "miswrote",
+      "miswritten"
+    ],
+    "translate": "неправильно писать"
+  },
+  {
+    "words": [
+      "mow",
+      "mowed",
+      "mowed / mown"
+    ],
+    "translate": "косить, стричь (газон), жать"
+  },
+  {
+    "words": [
+      "offset",
+      "offset",
+      "offset"
+    ],
+    "translate": "возмещать, компенсировать, ответвляться"
+  },
+  {
+    "words": [
+      "outbid",
+      "outbid",
+      "outbid"
+    ],
+    "translate": "перебивать цену, превзойти, затмить"
+  },
+  {
+    "words": [
+      "outdo",
+      "outdid",
+      "outdone"
+    ],
+    "translate": "превзойти, поражать, побороть"
+  },
+  {
+    "words": [
+      "outdraw",
+      "outdrew",
+      "outdrawn"
+    ],
+    "translate": "добиться большей популярности, превзойти конкурентов"
+  },
+  {
+    "words": [
+      "outdrink",
+      "outdrank",
+      "outdrunk"
+    ],
+    "translate": "перепить (кого-то), выпить больше, чем кто-то"
+  },
+  {
+    "words": [
+      "outdrive",
+      "outdrove",
+      "outdriven"
+    ],
+    "translate": "обогнать, опередить"
+  },
+  {
+    "words": [
+      "outfight",
+      "outfought",
+      "outfought"
+    ],
+    "translate": "иметь перевес над противником, побеждать"
+  },
+  {
+    "words": [
+      "outfly",
+      "outflew",
+      "outflown"
+    ],
+    "translate": "вылетать, летать быстрее, дальше (чем кто-либо)"
+  },
+  {
+    "words": [
+      "outgrow",
+      "outgrew",
+      "outgrown"
+    ],
+    "translate": "опережать в росте, перерастать, избавляться с возрастом"
+  },
+  {
+    "words": [
+      "outleap",
+      "outleaped / outleapt",
+      "outleaped / outleapt"
+    ],
+    "translate": "перепрыгивать, выпрыгивать, прыгать лучше"
+  },
+  {
+    "words": [
+      "outlie",
+      "outlay",
+      "outlain"
+    ],
+    "translate": "находиться снаружи, вне, простираться"
+  },
+  {
+    "words": [
+      "outrun",
+      "outran",
+      "outrun"
+    ],
+    "translate": "перегонять, опережать, убежать, сбежать"
+  },
+  {
+    "words": [
+      "outsell",
+      "outsold",
+      "outsold"
+    ],
+    "translate": "продавать, продаваться лучше, превосходить в цене"
+  },
+  {
+    "words": [
+      "outshine",
+      "outshined / outshone",
+      "outshined / outshone"
+    ],
+    "translate": "затмить"
+  },
+  {
+    "words": [
+      "outshoot",
+      "outshot",
+      "outshot"
+    ],
+    "translate": "стрелять лучше, отбрасывать, выбрасывать"
+  },
+  {
+    "words": [
+      "outsing",
+      "outsang",
+      "outsung"
+    ],
+    "translate": "превзойти в пении"
+  },
+  {
+    "words": [
+      "outsit",
+      "outsat",
+      "outsat"
+    ],
+    "translate": "пересидеть, засидеться"
+  },
+  {
+    "words": [
+      "outsleep",
+      "outslept",
+      "outslept"
+    ],
+    "translate": "проспать, прозевать"
+  },
+  {
+    "words": [
+      "outsmell",
+      "outsmelled / outsmelt",
+      "outsmelled / outsmelt"
+    ],
+    "translate": "пахнуть сильнее, чем что-то"
+  },
+  {
+    "words": [
+      "outspeak",
+      "outspoke",
+      "outspoken"
+    ],
+    "translate": "говорить лучше, высказаться, заявить"
+  },
+  {
+    "words": [
+      "outspeed",
+      "outsped / outspeeded",
+      "outsped / outspeeded"
+    ],
+    "translate": "перегонять, быть, действовать&nbsp;быстрее"
+  },
+  {
+    "words": [
+      "outspend",
+      "outspent",
+      "outspent"
+    ],
+    "translate": "превзойти по расходам, тратить больше"
+  },
+  {
+    "words": [
+      "outstand",
+      "outstood",
+      "outstood"
+    ],
+    "translate": "выделяться, бросаться в глаза, выдержать"
+  },
+  {
+    "words": [
+      "outswear",
+      "outswore",
+      "outsworn"
+    ],
+    "translate": "превосходить в ругани"
+  },
+  {
+    "words": [
+      "outswim",
+      "outswam",
+      "outswum"
+    ],
+    "translate": "превосходить в плавании"
+  },
+  {
+    "words": [
+      "outthink",
+      "outthought",
+      "outthought"
+    ],
+    "translate": "превосходить разумом, перехитрить"
+  },
+  {
+    "words": [
+      "outthrow",
+      "outthrew",
+      "outthrown"
+    ],
+    "translate": "выбрасывать, извергать, бросать лучше"
+  },
+  {
+    "words": [
+      "outwear",
+      "outwore",
+      "worn"
+    ],
+    "translate": "изнашивать, служить дольше остальных вещей"
+  },
+  {
+    "words": [
+      "outwrite",
+      "outwrote",
+      "outwritten"
+    ],
+    "translate": "писать лучше"
+  },
+  {
+    "words": [
+      "overbid",
+      "overbid",
+      "overbid"
+    ],
+    "translate": "перебивать цену, взятку"
+  },
+  {
+    "words": [
+      "overbreed",
+      "overbred",
+      "overbred"
+    ],
+    "translate": "разводить, выращивать животных в чрезмерном количестве"
+  },
+  {
+    "words": [
+      "overbuild",
+      "overbuilt",
+      "overbuilt"
+    ],
+    "translate": "чрезмерно застраивать, надстраивать"
+  },
+  {
+    "words": [
+      "overbuy",
+      "overbought",
+      "overbought"
+    ],
+    "translate": "покупать слишком много, слишком дорого"
+  },
+  {
+    "words": [
+      "overcome",
+      "overcame",
+      "overcome"
+    ],
+    "translate": "преодолеть, побороть"
+  },
+  {
+    "words": [
+      "overdo",
+      "overdid",
+      "overdone"
+    ],
+    "translate": "перестараться, переборщить, утрировать, переутомляться"
+  },
+  {
+    "words": [
+      "overdraw",
+      "overdrew",
+      "overdrawn"
+    ],
+    "translate": "превысить кредит, гиперболизировать"
+  },
+  {
+    "words": [
+      "overdrink",
+      "overdrank",
+      "overdrunk"
+    ],
+    "translate": "перепить, слишком много пить"
+  },
+  {
+    "words": [
+      "overeat",
+      "overate",
+      "overeaten"
+    ],
+    "translate": "переесть, есть слишком много"
+  },
+  {
+    "words": [
+      "overfeed",
+      "overfed",
+      "overfed"
+    ],
+    "translate": "перекармливать, объедаться"
+  },
+  {
+    "words": [
+      "overfly",
+      "overflew",
+      "overflown"
+    ],
+    "translate": "перелетать, пролетать над чем-то"
+  },
+  {
+    "words": [
+      "overhang",
+      "overhung",
+      "overhung"
+    ],
+    "translate": "выступать, нависать, угрожать, вешать драпировку"
+  },
+  {
+    "words": [
+      "overhear",
+      "overheard",
+      "overheard"
+    ],
+    "translate": "подслушивать, нечаянно услышать"
+  },
+  {
+    "words": [
+      "overlay",
+      "overlaid",
+      "overlaid"
+    ],
+    "translate": "покрывать, перекрывать, оказывать влияние"
+  },
+  {
+    "words": [
+      "overlie",
+      "overlay",
+      "overlain"
+    ],
+    "translate": "лежать, залегать над чем-то, перекрывать&nbsp;"
+  },
+  {
+    "words": [
+      "overpay",
+      "overpaid",
+      "overpaid"
+    ],
+    "translate": "переплачивать, возмещать с избытком"
+  },
+  {
+    "words": [
+      "override",
+      "overrode",
+      "overridden"
+    ],
+    "translate": "отменять, перевешивать, преобладать, переехать"
+  },
+  {
+    "words": [
+      "overrun",
+      "overran",
+      "overrun"
+    ],
+    "translate": "переходить пределы, захватывать, заполонять"
+  },
+  {
+    "words": [
+      "oversee",
+      "oversaw",
+      "overseen"
+    ],
+    "translate": "наблюдать, надзирать, следить, подсмотреть"
+  },
+  {
+    "words": [
+      "oversell",
+      "oversold",
+      "oversold"
+    ],
+    "translate": "перехваливать, навязывать продукцию, продать больше своих запасов"
+  },
+  {
+    "words": [
+      "overset",
+      "overset",
+      "overset"
+    ],
+    "translate": "нарушать порядок, расстраивать, опрокидываться"
+  },
+  {
+    "words": [
+      "oversew",
+      "oversewed",
+      "oversewn / oversewed"
+    ],
+    "translate": "сшивать через край"
+  },
+  {
+    "words": [
+      "overshoot",
+      "overshot",
+      "overshot"
+    ],
+    "translate": "промахнуться, перейти границы, стрелять до изнеможения"
+  },
+  {
+    "words": [
+      "oversleep",
+      "overslept",
+      "overslept"
+    ],
+    "translate": "проспать, заспаться"
+  },
+  {
+    "words": [
+      "overspeak",
+      "overspoke",
+      "overspoken"
+    ],
+    "translate": "слишком много разговаривать"
+  },
+  {
+    "words": [
+      "overspend",
+      "overspent",
+      "overspent"
+    ],
+    "translate": "сорить деньгами, расстраивать свое здоровье"
+  },
+  {
+    "words": [
+      "overspill",
+      "overspilled / overspilt",
+      "overspilled / overspilt"
+    ],
+    "translate": "проливать, переполнять, перенаселять"
+  },
+  {
+    "words": [
+      "overtake",
+      "overtook",
+      "overtaken"
+    ],
+    "translate": "догнать, настигать, овладевать, обогнать"
+  },
+  {
+    "words": [
+      "overthink",
+      "overthought",
+      "overthought"
+    ],
+    "translate": "надумать лишнего, слишком много думать"
+  },
+  {
+    "words": [
+      "overthrow",
+      "overthrew",
+      "overthrown"
+    ],
+    "translate": "бросать слишком далеко, свергать, разрушать"
+  },
+  {
+    "words": [
+      "overwind",
+      "overwound",
+      "overwound"
+    ],
+    "translate": "перекрутить, крутить слишком сильно, быстро"
+  },
+  {
+    "words": [
+      "overwrite",
+      "overwrote",
+      "overwritten"
+    ],
+    "translate": "переписывать, писать поверх текста, много писать"
+  },
+  {
+    "words": [
+      "partake",
+      "partook",
+      "partaken"
+    ],
+    "translate": "принимать участие, разделять, отведать, воспользоваться"
+  },
+  {
+    "words": [
+      "pay",
+      "paid",
+      "paid"
+    ],
+    "translate": "платить, вознаграждать, отомстить"
+  },
+  {
+    "words": [
+      "plead",
+      "pleaded / pled",
+      "pleaded / pled"
+    ],
+    "translate": "защищать подсудимого, ходатайствовать, простить"
+  },
+  {
+    "words": [
+      "prebuild",
+      "prebuilt",
+      "prebuilt"
+    ],
+    "translate": "предварительно собрать, выстроить"
+  },
+  {
+    "words": [
+      "predo",
+      "predid",
+      "predone"
+    ],
+    "translate": "сделать заранее, подготовить"
+  },
+  {
+    "words": [
+      "premake",
+      "premade",
+      "premade"
+    ],
+    "translate": "подготовить, сделать наперед, заранее"
+  },
+  {
+    "words": [
+      "prepay",
+      "prepaid",
+      "prepaid"
+    ],
+    "translate": "предоплачивать, платить наперед"
+  },
+  {
+    "words": [
+      "presell",
+      "presoldpreset",
+      "prespresetold"
+    ],
+    "translate": "рекламировать товар, организовать предпродажу, продавать наперед"
+  },
+  {
+    "words": [
+      "preshrink",
+      "preshrank",
+      "preshrunk"
+    ],
+    "translate": "обрабатывать ткань для предотвращения ее стяжки"
+  },
+  {
+    "words": [
+      "proofread",
+      "proofread",
+      "proofread"
+    ],
+    "translate": "читать корректуру, корректировать, вычитывать"
+  },
+  {
+    "words": [
+      "prove",
+      "proved",
+      "proven / proved"
+    ],
+    "translate": "доказывать, удостоверять"
+  },
+  {
+    "words": [
+      "put",
+      "put",
+      "put"
+    ],
+    "translate": "класть, положить"
+  },
+  {
+    "words": [
+      "quick-freeze",
+      "quick-froze",
+      "quick-frozen"
+    ],
+    "translate": "быстро замораживать, замерзать"
+  },
+  {
+    "words": [
+      "quit",
+      "quit /&nbsp;quitted&nbsp;",
+      "quit /&nbsp;quitted"
+    ],
+    "translate": "оставлять, покидать, выходить"
+  },
+  {
+    "words": [
+      "read",
+      "read [red]",
+      "read [red]"
+    ],
+    "translate": "читать"
+  },
+  {
+    "words": [
+      "reawake",
+      "reawoke",
+      "reawaken"
+    ],
+    "translate": "снова пробуждать"
+  },
+  {
+    "words": [
+      "rebid",
+      "rebid",
+      "rebid"
+    ],
+    "translate": "делать повторную ставку"
+  },
+  {
+    "words": [
+      "rebind",
+      "rebound",
+      "rebound"
+    ],
+    "translate": "переплетать заново (книгу)"
+  },
+  {
+    "words": [
+      "rebroadcast",
+      "rebroadcast / rebroadcasted",
+      "rebroadcast / rebroadcasted"
+    ],
+    "translate": "ретранслировать, показывать (передачу) заново"
+  },
+  {
+    "words": [
+      "rebuild",
+      "rebuilt",
+      "rebuilt"
+    ],
+    "translate": "перестраивать"
+  },
+  {
+    "words": [
+      "recast",
+      "recast",
+      "recast"
+    ],
+    "translate": "переделывать, изменять, пересчитывать"
+  },
+  {
+    "words": [
+      "recut",
+      "recut",
+      "recut"
+    ],
+    "translate": "вторично нарезать, повторно вырезать (сцены из фильма)"
+  },
+  {
+    "words": [
+      "redeal",
+      "redealt",
+      "redealt"
+    ],
+    "translate": "перераздавать карты в игре"
+  },
+  {
+    "words": [
+      "redo",
+      "redid",
+      "redone"
+    ],
+    "translate": "переделывать, делать ремонт"
+  },
+  {
+    "words": [
+      "redraw",
+      "redrew",
+      "redrawn"
+    ],
+    "translate": "перерисовывать, обновлять рисунок, выставлять обратный вексель"
+  },
+  {
+    "words": [
+      "refit",
+      "refitted / refit",
+      "refitted / refit"
+    ],
+    "translate": "перекраивать, подгонять заново (по размеру)"
+  },
+  {
+    "words": [
+      "regrind",
+      "reground",
+      "reground"
+    ],
+    "translate": "перешлифовывать, перетачивать, притирать"
+  },
+  {
+    "words": [
+      "regrow",
+      "regrew",
+      "regrown"
+    ],
+    "translate": "отрастать снова"
+  },
+  {
+    "words": [
+      "rehang",
+      "rehung",
+      "rehung"
+    ],
+    "translate": "перевешивать"
+  },
+  {
+    "words": [
+      "rehear",
+      "reheard",
+      "reheard"
+    ],
+    "translate": "услышать снова, рассматривать дело повторно"
+  },
+  {
+    "words": [
+      "reknit",
+      "reknitted / reknit",
+      "reknitted / reknit"
+    ],
+    "translate": "вязать заново, соединять заново"
+  },
+  {
+    "words": [
+      "relay&nbsp;",
+      "relaid",
+      "relaid"
+    ],
+    "translate": "класть заново, заменять (черепицу, кафель)"
+  },
+  {
+    "words": [
+      "relearn",
+      "relearned / relearnt",
+      "relearned / relearnt"
+    ],
+    "translate": "учиться заново, переучиваться"
+  },
+  {
+    "words": [
+      "relight",
+      "relit / relighted",
+      "relit / relighted"
+    ],
+    "translate": "зажечь,&nbsp;зажечься снова, загореться"
+  },
+  {
+    "words": [
+      "remake",
+      "remade",
+      "remade"
+    ],
+    "translate": "переделывать, делать заново"
+  },
+  {
+    "words": [
+      "rend",
+      "rent / rended",
+      "rent / rended"
+    ],
+    "translate": "отрывать, раздирать, дробить, расщеплять"
+  },
+  {
+    "words": [
+      "repay",
+      "repaid",
+      "repaid"
+    ],
+    "translate": "отдавать, возвращать, возмещать, отплачивать"
+  },
+  {
+    "words": [
+      "reread",
+      "reread",
+      "reread"
+    ],
+    "translate": "перечитывать"
+  },
+  {
+    "words": [
+      "rerun",
+      "reran",
+      "rerun"
+    ],
+    "translate": "перезапускать, повторно проводить, показывать"
+  },
+  {
+    "words": [
+      "resell",
+      "resold",
+      "resold"
+    ],
+    "translate": "перепродавать"
+  },
+  {
+    "words": [
+      "resend",
+      "resent",
+      "resent"
+    ],
+    "translate": "переотправлять, посылать заново"
+  },
+  {
+    "words": [
+      "reset",
+      "reset",
+      "reset"
+    ],
+    "translate": "повторно включать, устанавливать, сбрасывать"
+  },
+  {
+    "words": [
+      "resew",
+      "resewed",
+      "resewn / resewed"
+    ],
+    "translate": "пришивать заново, перешивать"
+  },
+  {
+    "words": [
+      "retake",
+      "retook",
+      "retaken"
+    ],
+    "translate": "снова взять, переснимать, пересдавать (экзамен)"
+  },
+  {
+    "words": [
+      "reteach",
+      "retaught",
+      "retaught"
+    ],
+    "translate": "переучивать, учить заново"
+  },
+  {
+    "words": [
+      "retear",
+      "retore",
+      "retorn"
+    ],
+    "translate": "снова разрывать, отрывать"
+  },
+  {
+    "words": [
+      "retell",
+      "retold",
+      "retold"
+    ],
+    "translate": "пересказывать, рассказывать снова"
+  },
+  {
+    "words": [
+      "rethink",
+      "rethought",
+      "rethought"
+    ],
+    "translate": "пересматривать, заново осмыслить"
+  },
+  {
+    "words": [
+      "retread",
+      "retread",
+      "retread"
+    ],
+    "translate": "сменить покрышку, переобучать, заново давать работу"
+  },
+  {
+    "words": [
+      "retrofit",
+      "retrofitted / retrofit",
+      "retrofitted / retrofit"
+    ],
+    "translate": "модифицировать, подгонять, настраивать"
+  },
+  {
+    "words": [
+      "rewake",
+      "rewoke / rewaked",
+      "rewaken / rewaked"
+    ],
+    "translate": "будить, пробуждаться заново"
+  },
+  {
+    "words": [
+      "rewear",
+      "rewore",
+      "reworn"
+    ],
+    "translate": "носить заново"
+  },
+  {
+    "words": [
+      "reweave",
+      "rewove / reweaved",
+      "rewoven / reweaved"
+    ],
+    "translate": "переткать, плести, ткать заново, снова соединяться"
+  },
+  {
+    "words": [
+      "rewed",
+      "rewed / rewedded",
+      "rewed / rewedded"
+    ],
+    "translate": "жениться во второй раз"
+  },
+  {
+    "words": [
+      "rewet",
+      "rewet /&nbsp;rewetted",
+      "rewet /&nbsp;rewetted"
+    ],
+    "translate": "повторно увлажнять, мочить снова"
+  },
+  {
+    "words": [
+      "rewin",
+      "rewon",
+      "rewon"
+    ],
+    "translate": "снова победить, победить после проигрыша"
+  },
+  {
+    "words": [
+      "rewind",
+      "rewound",
+      "rewound"
+    ],
+    "translate": "перематывать (назад)"
+  },
+  {
+    "words": [
+      "rewrite",
+      "rewrote",
+      "rewritten"
+    ],
+    "translate": "переписывать, редактировать, отвечать письменно"
+  },
+  {
+    "words": [
+      "rid",
+      "rid",
+      "rid"
+    ],
+    "translate": "освобождать, избавлять"
+  },
+  {
+    "words": [
+      "ride",
+      "rode",
+      "ridden"
+    ],
+    "translate": "ехать верхом, кататься, ехать (в транспорте)"
+  },
+  {
+    "words": [
+      "ring",
+      "rang",
+      "rung"
+    ],
+    "translate": "звонить, звенеть"
+  },
+  {
+    "words": [
+      "rise",
+      "rose",
+      "risen"
+    ],
+    "translate": "подниматься, восходить"
+  },
+  {
+    "words": [
+      "roughcast",
+      "roughcast",
+      "roughcast"
+    ],
+    "translate": "набрасывать план, намечать, грубо штукатурить"
+  },
+  {
+    "words": [
+      "run",
+      "ran",
+      "run"
+    ],
+    "translate": "бежать, гнать, управлять, течь"
+  },
+  {
+    "words": [
+      "sand-cast",
+      "sand-cast",
+      "sand-cast"
+    ],
+    "translate": "отливать металл в песчаную форму"
+  },
+  {
+    "words": [
+      "saw",
+      "sawed",
+      "sawed / sawn"
+    ],
+    "translate": "пилить, распилить"
+  },
+  {
+    "words": [
+      "say",
+      "said",
+      "said"
+    ],
+    "translate": "говорить, сказать"
+  },
+  {
+    "words": [
+      "see",
+      "saw",
+      "seen"
+    ],
+    "translate": "видеть, смотреть"
+  },
+  {
+    "words": [
+      "seek",
+      "sought",
+      "sought"
+    ],
+    "translate": "искать, добиваться"
+  },
+  {
+    "words": [
+      "sell",
+      "sold",
+      "sold"
+    ],
+    "translate": "продавать"
+  },
+  {
+    "words": [
+      "send",
+      "sent",
+      "sent"
+    ],
+    "translate": "посылать, отправлять"
+  },
+  {
+    "words": [
+      "set",
+      "set",
+      "set"
+    ],
+    "translate": "помещать, ставить"
+  },
+  {
+    "words": [
+      "sew",
+      "sewed",
+      "sewn / sewed"
+    ],
+    "translate": "шить, штопать"
+  },
+  {
+    "words": [
+      "shake",
+      "shook",
+      "shaken"
+    ],
+    "translate": "трясти, встряхивать"
+  },
+  {
+    "words": [
+      "shave",
+      "shaved",
+      "shaved / shaven"
+    ],
+    "translate": "бриться"
+  },
+  {
+    "words": [
+      "shear",
+      "sheared",
+      "sheared / shorn"
+    ],
+    "translate": "резать, выстригать, рассекать"
+  },
+  {
+    "words": [
+      "shed",
+      "shed",
+      "shed"
+    ],
+    "translate": "проливать, терять, сбрасывать"
+  },
+  {
+    "words": [
+      "shine",
+      "shined / shone",
+      "shined / shone"
+    ],
+    "translate": "сиять, светить"
+  },
+  {
+    "words": [
+      "shit",
+      "shit /&nbsp;shat&nbsp;/ shitted",
+      "shit/&nbsp;shat&nbsp;/ shitted"
+    ],
+    "translate": "какать, гадить, срать"
+  },
+  {
+    "words": [
+      "shoe",
+      "shod",
+      "shod"
+    ],
+    "translate": "обувать, подковывать, подбивать"
+  },
+  {
+    "words": [
+      "shoot",
+      "shot",
+      "shot"
+    ],
+    "translate": "стрелять, охотиться"
+  },
+  {
+    "words": [
+      "show",
+      "showed",
+      "shown / showed"
+    ],
+    "translate": "показывать, показываться, выставлять напоказ"
+  },
+  {
+    "words": [
+      "shrink",
+      "shrank / shrunk",
+      "shrunk / shrunken"
+    ],
+    "translate": "уменьшать, уменьшаться, сжиматься, давать усадку"
+  },
+  {
+    "words": [
+      "shut",
+      "shut",
+      "shut"
+    ],
+    "translate": "закрывать"
+  },
+  {
+    "words": [
+      "sight-read",
+      "sight-read",
+      "sight-read"
+    ],
+    "translate": "играть, петь с листа, читать ноты, текст с листа"
+  },
+  {
+    "words": [
+      "sing",
+      "sang",
+      "sung"
+    ],
+    "translate": "петь"
+  },
+  {
+    "words": [
+      "sink",
+      "sank / sunk",
+      "sunk"
+    ],
+    "translate": "тонуть, опускаться, погружаться"
+  },
+  {
+    "words": [
+      "sit",
+      "sat",
+      "sat"
+    ],
+    "translate": "сидеть, сажать, находиться"
+  },
+  {
+    "words": [
+      "slay",
+      "slew / slayed",
+      "slain / slayed"
+    ],
+    "translate": "убивать, уничтожать"
+  },
+  {
+    "words": [
+      "sleep",
+      "slept",
+      "slept"
+    ],
+    "translate": "спать"
+  },
+  {
+    "words": [
+      "slide",
+      "slid",
+      "slid"
+    ],
+    "translate": "скользить, ползать, кататься"
+  },
+  {
+    "words": [
+      "sling",
+      "slung",
+      "slung"
+    ],
+    "translate": "швырять, вешать через плечо, подвешивать"
+  },
+  {
+    "words": [
+      "slink",
+      "slinked / slunk",
+      "slinked / slunk"
+    ],
+    "translate": "красться, подкрадываться, рожать преждевременно"
+  },
+  {
+    "words": [
+      "slit",
+      "slit",
+      "slit"
+    ],
+    "translate": "разрезать, перерезать"
+  },
+  {
+    "words": [
+      "smell",
+      "smelled / smelt",
+      "smelled / smelt"
+    ],
+    "translate": "пахнуть, нюхать"
+  },
+  {
+    "words": [
+      "smite",
+      "smote",
+      "smitten"
+    ],
+    "translate": "поражать, бить, наказывать"
+  },
+  {
+    "words": [
+      "sneak",
+      "sneaked / snuck",
+      "sneaked / snuck"
+    ],
+    "translate": "красться, подкрадываться, красть, ускользать"
+  },
+  {
+    "words": [
+      "sow",
+      "sowed",
+      "sown / sowed"
+    ],
+    "translate": "сеять, засевать, распространять"
+  },
+  {
+    "words": [
+      "speak",
+      "spoke",
+      "spoken"
+    ],
+    "translate": "говорить"
+  },
+  {
+    "words": [
+      "speed",
+      "sped / speeded",
+      "sped / speeded"
+    ],
+    "translate": "спешить, ускорять, торопить"
+  },
+  {
+    "words": [
+      "spell",
+      "spelled / spelt",
+      "spelled / spelt"
+    ],
+    "translate": "заколдовать; сменить, дать отдохнуть; писать, произносить слово по буквам"
+  },
+  {
+    "words": [
+      "spend",
+      "spent",
+      "spent"
+    ],
+    "translate": "тратить, истощать"
+  },
+  {
+    "words": [
+      "spill",
+      "spilled / spilt",
+      "spilled / spilt"
+    ],
+    "translate": "проливать, разливаться"
+  },
+  {
+    "words": [
+      "spin",
+      "spun",
+      "spun"
+    ],
+    "translate": "прясть, крутить, вертеть, плести"
+  },
+  {
+    "words": [
+      "spit",
+      "spit /&nbsp;spat",
+      "spit /&nbsp;spat"
+    ],
+    "translate": "плевать, пронзать, натыкать, моросить"
+  },
+  {
+    "words": [
+      "spoil",
+      "spoiled / spoilt",
+      "spoiled / spoilt"
+    ],
+    "translate": "портить, баловать"
+  },
+  {
+    "words": [
+      "spread",
+      "spread",
+      "spread"
+    ],
+    "translate": "распространяться, расстилать"
+  },
+  {
+    "words": [
+      "spring",
+      "sprang / sprung",
+      "sprung"
+    ],
+    "translate": "прыгать, вскочить"
+  },
+  {
+    "words": [
+      "stand",
+      "stood",
+      "stood"
+    ],
+    "translate": "стоять, быть расположенным"
+  },
+  {
+    "words": [
+      "stave",
+      "staved / stove",
+      "staved / stove"
+    ],
+    "translate": "проламывать, разбивать"
+  },
+  {
+    "words": [
+      "steal",
+      "stole",
+      "stolen"
+    ],
+    "translate": "воровать, красть"
+  },
+  {
+    "words": [
+      "stick",
+      "stuck",
+      "stuck"
+    ],
+    "translate": "втыкать, колоть, приклеивать, липнуть"
+  },
+  {
+    "words": [
+      "sting",
+      "stung",
+      "stung"
+    ],
+    "translate": "жалить, причинять боль, обманывать"
+  },
+  {
+    "words": [
+      "stink",
+      "stunk / stank",
+      "stunk"
+    ],
+    "translate": "вонять, пахнуть"
+  },
+  {
+    "words": [
+      "strew",
+      "strewed",
+      "strewn / strewed"
+    ],
+    "translate": "усеять, разбрасывать, посыпать"
+  },
+  {
+    "words": [
+      "stride",
+      "strode",
+      "stridden"
+    ],
+    "translate": "шагать, сидеть верхом"
+  },
+  {
+    "words": [
+      "strike",
+      "struck",
+      "struck / stricken"
+    ],
+    "translate": "ударять, поражать, бастовать"
+  },
+  {
+    "words": [
+      "string",
+      "strung",
+      "strung"
+    ],
+    "translate": "связывать, натягивать, нанизывать"
+  },
+  {
+    "words": [
+      "strive",
+      "strove / strived",
+      "striven / strived"
+    ],
+    "translate": "стремиться, стараться, пытаться"
+  },
+  {
+    "words": [
+      "sublet",
+      "sublet",
+      "sublet"
+    ],
+    "translate": "сдавать в поднаём"
+  },
+  {
+    "words": [
+      "sunburn",
+      "sunburned / sunburnt",
+      "sunburned / sunburnt"
+    ],
+    "translate": "обгорать на солнце"
+  },
+  {
+    "words": [
+      "swear",
+      "swore",
+      "sworn"
+    ],
+    "translate": "клясться, присягать, ругаться"
+  },
+  {
+    "words": [
+      "sweat",
+      "sweat / sweated",
+      "sweat / sweated"
+    ],
+    "translate": "потеть, сыреть, запотевать"
+  },
+  {
+    "words": [
+      "sweep",
+      "swept",
+      "swept"
+    ],
+    "translate": "мести, прочищать, сметать, мчаться"
+  },
+  {
+    "words": [
+      "swell",
+      "swelled",
+      "swollen / swelled"
+    ],
+    "translate": "пухнуть, раздуваться, набухать"
+  },
+  {
+    "words": [
+      "swim",
+      "swam",
+      "swum"
+    ],
+    "translate": "плавать, плыть"
+  },
+  {
+    "words": [
+      "swing",
+      "swung",
+      "swung"
+    ],
+    "translate": "качать, размахивать"
+  },
+  {
+    "words": [
+      "take",
+      "took",
+      "taken"
+    ],
+    "translate": "брать, взять"
+  },
+  {
+    "words": [
+      "teach",
+      "taught",
+      "taught"
+    ],
+    "translate": "обучать, учить"
+  },
+  {
+    "words": [
+      "tear",
+      "tore",
+      "torn"
+    ],
+    "translate": "рвать, сорвать, разорвать"
+  },
+  {
+    "words": [
+      "telecast",
+      "telecast",
+      "telecast"
+    ],
+    "translate": "передавать по телевидению"
+  },
+  {
+    "words": [
+      "tell",
+      "told",
+      "told"
+    ],
+    "translate": "говорить, рассказывать, сообщать"
+  },
+  {
+    "words": [
+      "test-drive",
+      "test-drove",
+      "test-driven"
+    ],
+    "translate": "делать пробную поездку, тестировать"
+  },
+  {
+    "words": [
+      "test-fly",
+      "test-flew",
+      "test-flown"
+    ],
+    "translate": "испытывать самолет в воздухе"
+  },
+  {
+    "words": [
+      "think",
+      "thought",
+      "thought"
+    ],
+    "translate": "думать, полагать"
+  },
+  {
+    "words": [
+      "thrive",
+      "throve / thrived",
+      "thrived / thriven"
+    ],
+    "translate": "процветать, преуспевать, буйно расти"
+  },
+  {
+    "words": [
+      "throw",
+      "threw",
+      "thrown"
+    ],
+    "translate": "кидать, бросать"
+  },
+  {
+    "words": [
+      "thrust",
+      "thrust",
+      "thrust"
+    ],
+    "translate": "колоть, засовывать, толкать, лезть"
+  },
+  {
+    "words": [
+      "tread",
+      "trod",
+      "trodden / trod"
+    ],
+    "translate": "идти, ступать, топтать, давить"
+  },
+  {
+    "words": [
+      "typecast",
+      "typecast",
+      "typecast"
+    ],
+    "translate": "подбирать актеров по типажности"
+  },
+  {
+    "words": [
+      "typeset",
+      "typeset",
+      "typeset"
+    ],
+    "translate": "набирать текст для печати, определять тип"
+  },
+  {
+    "words": [
+      "typewrite",
+      "typewrote",
+      "typewritten"
+    ],
+    "translate": "печатать на пишущей машинке, набирать текст"
+  },
+  {
+    "words": [
+      "unbend",
+      "unbent",
+      "unbent"
+    ],
+    "translate": "разгибаться, выпрямляться, смягчаться"
+  },
+  {
+    "words": [
+      "unbind",
+      "unbound",
+      "unbound"
+    ],
+    "translate": "развязать, распуска, ослаблять"
+  },
+  {
+    "words": [
+      "unclothe",
+      "unclothed / unclad",
+      "unclothed / unclad"
+    ],
+    "translate": "раздеваться, раздевать, обнажать"
+  },
+  {
+    "words": [
+      "underbid",
+      "underbid",
+      "underbid"
+    ],
+    "translate": "перебивать цену, назначать более низкую цену"
+  },
+  {
+    "words": [
+      "undercut",
+      "undercut",
+      "undercut"
+    ],
+    "translate": "подрезать, сбивать цены, делать подсечку"
+  },
+  {
+    "words": [
+      "underfeed",
+      "underfed",
+      "underfed"
+    ],
+    "translate": "недокармливать, недоедать"
+  },
+  {
+    "words": [
+      "undergo",
+      "underwent",
+      "undergone"
+    ],
+    "translate": "испытывать, переносить"
+  },
+  {
+    "words": [
+      "underlie",
+      "underlay",
+      "underlain"
+    ],
+    "translate": "подчеркивать, выделять"
+  },
+  {
+    "words": [
+      "undersell",
+      "undersold",
+      "undersold"
+    ],
+    "translate": "продавать дешевле других"
+  },
+  {
+    "words": [
+      "underspend",
+      "underspent",
+      "underspent"
+    ],
+    "translate": "тратить недостаточно, очень мало"
+  },
+  {
+    "words": [
+      "understand",
+      "understood",
+      "understood"
+    ],
+    "translate": "понимать, осознавать"
+  },
+  {
+    "words": [
+      "undertake",
+      "undertook",
+      "undertaken"
+    ],
+    "translate": "предпринимать, гарантировать, совершать"
+  },
+  {
+    "words": [
+      "underwrite",
+      "underwrote",
+      "underwritten"
+    ],
+    "translate": "подписывать, гарантировать, ручаться"
+  },
+  {
+    "words": [
+      "undo",
+      "undid",
+      "undone"
+    ],
+    "translate": "расстегивать, уничтожать, отменять, разбирать"
+  },
+  {
+    "words": [
+      "unfreeze",
+      "unfroze",
+      "unfrozen"
+    ],
+    "translate": "разморозить, размораживаться"
+  },
+  {
+    "words": [
+      "unhang",
+      "unhung",
+      "unhung"
+    ],
+    "translate": "снимать (висящее)"
+  },
+  {
+    "words": [
+      "unhide",
+      "unhid",
+      "unhidden"
+    ],
+    "translate": "показывать скрытые элементы"
+  },
+  {
+    "words": [
+      "unknit",
+      "unknitted / unknit",
+      "unknitted / unknit"
+    ],
+    "translate": "распускать (вязанье), распутывать, разъединять"
+  },
+  {
+    "words": [
+      "unlearn",
+      "unlearned / unlearnt",
+      "unlearned / unlearnt"
+    ],
+    "translate": "разучиться, забыть то, что знал"
+  },
+  {
+    "words": [
+      "unsew",
+      "unsewed",
+      "unsewn / unsewed"
+    ],
+    "translate": "распарывать сшитое"
+  },
+  {
+    "words": [
+      "unsling",
+      "unslung",
+      "unslung"
+    ],
+    "translate": "отвязывать, снимать, осовобождать от ремня"
+  },
+  {
+    "words": [
+      "unspin",
+      "unspun",
+      "unspun"
+    ],
+    "translate": "распускать, расплетать,распутывать"
+  },
+  {
+    "words": [
+      "unstick",
+      "unstuck",
+      "unstuck"
+    ],
+    "translate": "отдирать, отклеивать, взлетать (самолет)"
+  },
+  {
+    "words": [
+      "unstring",
+      "unstrung",
+      "unstrung"
+    ],
+    "translate": "снимать, ослаблять, распускать, огорчать"
+  },
+  {
+    "words": [
+      "unweave",
+      "unwove / unweaved",
+      "unwoven / unweaved"
+    ],
+    "translate": "распускать, расплетать (ткань)"
+  },
+  {
+    "words": [
+      "unwind",
+      "unwound",
+      "unwound"
+    ],
+    "translate": "расматывать, раскручивать, развивать"
+  },
+  {
+    "words": [
+      "uphold",
+      "upheld",
+      "upheld"
+    ],
+    "translate": "поддерживать, помогать, удерживать"
+  },
+  {
+    "words": [
+      "upset",
+      "upset",
+      "upset"
+    ],
+    "translate": "опрокидывать, расстраивать, огорчать"
+  },
+  {
+    "words": [
+      "wake",
+      "woke / waked",
+      "woken / waked"
+    ],
+    "translate": "будить, просыпаться"
+  },
+  {
+    "words": [
+      "waylay",
+      "waylaid",
+      "waylaid"
+    ],
+    "translate": "подстерегать, устраивать засаду"
+  },
+  {
+    "words": [
+      "wear",
+      "wore",
+      "worn"
+    ],
+    "translate": "носить (одежду)"
+  },
+  {
+    "words": [
+      "weave",
+      "wove / weaved",
+      "woven / weaved"
+    ],
+    "translate": "ткать, плести"
+  },
+  {
+    "words": [
+      "wed",
+      "wed / wedded",
+      "wed / wedded"
+    ],
+    "translate": "венчать, выдавать замуж, жениться, выходить замуж"
+  },
+  {
+    "words": [
+      "weep",
+      "wept",
+      "wept"
+    ],
+    "translate": "плакать, тосковать, запотевать"
+  },
+  {
+    "words": [
+      "wet",
+      "wet /&nbsp;wetted",
+      "wet /&nbsp;wetted"
+    ],
+    "translate": "мочить,  промочить, мокнуть"
+  },
+  {
+    "words": [
+      "win",
+      "won",
+      "won"
+    ],
+    "translate": "выигрывать, побеждать"
+  },
+  {
+    "words": [
+      "wind",
+      "wound",
+      "wound"
+    ],
+    "translate": "чуять, дуть, наматывать, заводить (механизм), извиваться"
+  },
+  {
+    "words": [
+      "withdraw",
+      "withdrew",
+      "withdrawn"
+    ],
+    "translate": "брать назад, отнимать, отзывать, извлекать"
+  },
+  {
+    "words": [
+      "withhold",
+      "withheld",
+      "withheld"
+    ],
+    "translate": "воздерживаться, удерживать, скрывать"
+  },
+  {
+    "words": [
+      "withstand",
+      "withstood",
+      "withstood"
+    ],
+    "translate": "устоять, выдерживать, сопротивляться"
+  },
+  {
+    "words": [
+      "wring",
+      "wrung",
+      "wrung"
+    ],
+    "translate": "крутить,&nbsp;терзать, выжимать, скручивать"
+  },
+  {
+    "words": [
+      "write",
+      "wrote",
+      "written"
+    ],
+    "translate": "писать"
+  }
+]

@@ -1,0 +1,40 @@
+:root {
+  --primary: rgb(117, 150, 86);
+  --secondary: rgb(238, 238, 210);
+}
+
+.cell, .figure {
+  width: 80px;
+  height: 80px;
+}
+
+.row:nth-child(2n) {
+  .cell:nth-child(2n) {
+    background-color: var(--secondary);
+  }
+
+  .cell:nth-child(2n+1) {
+    background-color: var(--primary);
+  }
+}
+
+.row:nth-child(2n+1) {
+  .cell:nth-child(2n) {
+    background-color: var(--primary);
+  }
+
+  .cell:nth-child(2n+1) {
+    background-color: var(--secondary);;
+  }
+}
+
+.figure {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .cell, .figure {
+    width: 45px;
+    height: 45px;
+  }
+}

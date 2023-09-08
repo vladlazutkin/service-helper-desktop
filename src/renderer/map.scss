@@ -1,0 +1,16 @@
+.svg {
+  svg {
+    width: calc(100vw - 45px);
+    height: calc(100vh - 240px);
+    border-radius: 5px;
+    background-color: #9d9d9d;
+    line {
+      fill: none;
+      stroke: black;
+      opacity: 1
+    }
+    circle{
+      cursor: pointer;
+    }
+  }
+}

@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === 'production') {
   checkNodeEnv('development');
 }
 
-const port = process.env.PORT || 1212;
+const port = process.env.PORT || 3000;
 const manifest = path.resolve(webpackPaths.dllPath, 'renderer.json');
 const skipDLLs =
   module.parent?.filename.includes('webpack.config.renderer.dev.dll') ||
@@ -90,7 +90,7 @@ const configuration: webpack.Configuration = {
       },
       // Images
       {
-        test: /\.(png|jpg|jpeg|gif)$/i,
+        test: /\.(png|jpg|jpeg|gif|mp3)$/i,
         type: 'asset/resource',
       },
       // SVG
