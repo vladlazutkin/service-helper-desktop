@@ -2,47 +2,33 @@ import React from 'react';
 import { RoutesPath } from './route-paths';
 import { RouteObject, USER_ROLE } from '../interfaces';
 import Terraria from '../pages/games/Terraria';
-const Login = React.lazy(() => import('../pages/auth/Login'));
-const Register = React.lazy(() => import('../pages/auth/Register'));
-const Settings = React.lazy(() => import('../pages/settings/Settings'));
-const Profile = React.lazy(() => import('../pages/Profile'));
-const Skins = React.lazy(() => import('../pages/Skins'));
-const Achievements = React.lazy(() => import('../pages/Achievements'));
-const Notes = React.lazy(() => import('../pages/Notes'));
-const RecognizeImage = React.lazy(
-  () => import('../pages/recognize/RecognizeImage')
-);
-const RecognizeVideo = React.lazy(
-  () => import('../pages/recognize/RecognizeVideo')
-);
-const DownloadYoutubeVideo = React.lazy(
-  () => import('../pages/download/DownloadYoutubeVideo')
-);
-const DownloadImageFromClipboard = React.lazy(
-  () => import('../pages/download/DownloadImageFromClipboard')
-);
-const DownloadYoutubeAudio = React.lazy(
-  () => import('../pages/download/DownloadYoutubeAudio')
-);
-const DownloadYoutubeVideosFromChannel = React.lazy(
-  () => import('../pages/download/DownloadYoutubeVideosFromChannel')
-);
-const DownloadTikTokVideo = React.lazy(
-  () => import('../pages/download/DownloadTikTokVideo')
-);
-const Boards = React.lazy(() => import('../pages/trello/Boards'));
-const AudioTune = React.lazy(() => import('../pages/AudioTune'));
-const ImageSlider = React.lazy(() => import('../pages/ImageSlider'));
-const Trello = React.lazy(() => import('../pages/trello/Trello'));
-const Chess = React.lazy(() => import('../pages/games/Chess'));
-const Sapper = React.lazy(() => import('../pages/games/Sapper'));
-const Call = React.lazy(() => import('../pages/games/Call'));
-const Arkanoid = React.lazy(() => import('../pages/games/Arkanoid'));
-const Cubello = React.lazy(() => import('../pages/games/Cubello'));
-const Cubchik = React.lazy(() => import('../pages/games/Cubchik'));
-const Checkers = React.lazy(() => import('../pages/games/Checkers'));
-const AdminPanel = React.lazy(() => import('../pages/admin/AdminPanel'));
-const Games = React.lazy(() => import('../pages/games/Games'));
+import Login from '../pages/auth/Login';
+import Register from '../pages/auth/Register';
+import Settings from '../pages/settings/Settings';
+import Profile from '../pages/Profile';
+import Skins from '../pages/Skins';
+import Achievements from '../pages/Achievements';
+import Notes from '../pages/Notes';
+import RecognizeImage from '../pages/recognize/RecognizeImage';
+import RecognizeVideo from '../pages/recognize/RecognizeVideo';
+import DownloadYoutubeVideo from '../pages/download/DownloadYoutubeVideo';
+import DownloadImageFromClipboard from '../pages/download/DownloadImageFromClipboard';
+import DownloadYoutubeAudio from '../pages/download/DownloadYoutubeAudio';
+import DownloadYoutubeVideosFromChannel from '../pages/download/DownloadYoutubeVideosFromChannel';
+import DownloadTikTokVideo from '../pages/download/DownloadTikTokVideo';
+import Boards from '../pages/trello/Boards';
+import AudioTune from '../pages/AudioTune';
+import ImageSlider from '../pages/ImageSlider';
+import Trello from '../pages/trello/Trello';
+import Chess from '../pages/games/Chess';
+import Sapper from '../pages/games/Sapper';
+import Call from '../pages/games/Call';
+import Arkanoid from '../pages/games/Arkanoid';
+import Cubello from '../pages/games/Cubello';
+import Cubchik from '../pages/games/Cubchik';
+import Checkers from '../pages/games/Checkers';
+import AdminPanel from '../pages/admin/AdminPanel';
+import Games from '../pages/games/Games';
 
 export const routes: RouteObject[] = [
   {

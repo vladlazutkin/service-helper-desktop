@@ -79,8 +79,6 @@ const createWindow = async () => {
       preload: app.isPackaged
         ? path.join(__dirname, 'preload.js')
         : path.join(__dirname, '../../.erb/dll/preload.js'),
-      nodeIntegration: true,
-      contextIsolation: false,
     },
   });
 
@@ -100,6 +98,7 @@ const createWindow = async () => {
   mainWindow.on('closed', () => {
     mainWindow = null;
   });
+  mainWindow.webContents.openDevTools();
 
   const menuBuilder = new MenuBuilder(mainWindow);
   menuBuilder.buildMenu();

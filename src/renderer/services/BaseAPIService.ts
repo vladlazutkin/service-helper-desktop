@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { getToken } from '../helpers/local-storage/token';
+import { config } from '../config';
 
 export enum Method {
   get = 'GET',
@@ -12,7 +13,7 @@ export enum Method {
 
 export type Body = Record<string, any> | FormData;
 
-export const baseUrl = `${process.env.REACT_APP_BACKEND_URL}/api/v1`;
+export const baseUrl = `${config.REACT_APP_BACKEND_URL}/api/v1`;
 
 class BaseAPIService {
   constructor(private readonly serviceUrl: string) {}
@@ -21,7 +22,7 @@ class BaseAPIService {
     url: string,
     method: Method,
     body?: Body,
-    customHeaders?: { [name: string]: string | undefined }
+    customHeaders?: { [name: string]: string | undefined },
   ): Promise<T> {
     try {
       const { data } = await axios<T>({
@@ -43,7 +44,7 @@ class BaseAPIService {
 
   private getHeaders(
     isFormData: boolean,
-    customHeaders?: { [name: string]: string | undefined }
+    customHeaders?: { [name: string]: string | undefined },
   ) {
     const token = getToken();
 

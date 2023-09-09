@@ -1,8 +1,9 @@
 import io, { Socket } from 'socket.io-client';
 import React, { useContext } from 'react';
 import { getToken } from '../helpers/local-storage/token';
+import { config } from '../config';
 
-export const socket = io(process.env.REACT_APP_BACKEND_URL, {
+export const socket = io(config.REACT_APP_BACKEND_URL, {
   query: { token: getToken() },
   autoConnect: false,
 });

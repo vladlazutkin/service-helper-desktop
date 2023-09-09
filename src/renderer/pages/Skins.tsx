@@ -16,6 +16,7 @@ import Modal from '../components/Modal';
 import { useSearchParams } from 'react-router-dom';
 import Button from '@mui/material/Button';
 import { isMobile } from '../helpers/isMobile';
+import { config } from '../config';
 
 const scale = isMobile() ? 0.8 : 0.5;
 
@@ -35,7 +36,7 @@ const Skins = () => {
   const handleBuy = async (id: string) => {
     setLoadingBuy(true);
     try {
-      const stripe = await loadStripe(process.env.REACT_APP_STRIPE_KEY);
+      const stripe = await loadStripe(config.REACT_APP_STRIPE_KEY);
 
       if (!stripe) {
         return;
@@ -78,7 +79,7 @@ const Skins = () => {
       setLoading(false);
     });
     ChessConfigsService.get<ChessConfig>().then((data) =>
-      setActiveConfig(data)
+      setActiveConfig(data),
     );
   }, []);
 

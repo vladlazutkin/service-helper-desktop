@@ -35,6 +35,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { getTheme, saveTheme } from './helpers/theme';
 
 import './i18n';
+import { config } from './config';
 
 const lessThan100 = facts.filter((f) => f.body.length < 100);
 const randomFact = lessThan100[getRandomInteger(0, lessThan100.length - 1)];
@@ -151,7 +152,7 @@ function App() {
           variant: 'error',
         });
         return Promise.reject(error);
-      }
+      },
     );
   }, []);
 
@@ -172,9 +173,9 @@ function App() {
       .catch(() => removeToken())
       .finally(() => {
         let timeReadLeft = readTime - (Date.now() - time);
-        if (process.env.NODE_ENV === 'development') {
-          timeReadLeft = 0;
-        }
+        // if (process.env.NODE_ENV === 'development') {
+        timeReadLeft = 0;
+        // }
         setTimeout(() => setLoading(false), Math.max(timeReadLeft, 0));
       });
   }, [token]);
@@ -247,23 +248,7 @@ function App() {
                     <Route
                       key={route.path}
                       path={route.path}
-                      element={
-                        <Wrapper key={route.path}>
-                          <Suspense
-                            fallback={
-                              <Stack
-                                sx={{ height: 'calc(100vh - 200px)' }}
-                                alignItems="center"
-                                justifyContent="center"
-                              >
-                                <Loader />
-                              </Stack>
-                            }
-                          >
-                            {route.page}
-                          </Suspense>
-                        </Wrapper>
-                      }
+                      element={<Wrapper key={route.path}>{route.page}</Wrapper>}
                     />
                   );
                 })}
