@@ -1,7 +1,7 @@
 /* eslint global-require: off, no-console: off, promise/always-return: off */
 
 import path from 'path';
-import { app, BrowserWindow, shell, ipcMain } from 'electron';
+import { app, BrowserWindow, shell, ipcMain, Menu, Tray } from 'electron';
 import { autoUpdater } from 'electron-updater';
 import log from 'electron-log';
 import MenuBuilder from './menu';
@@ -61,25 +61,50 @@ const createWindow = async () => {
     return path.join(RESOURCES_PATH, ...paths);
   };
 
-  // REACT_APP_BACKEND_URL=http://localhost:5001
-  // REACT_APP_BACKEND_URL=http://35.175.190.175
-
-  process.env.REACT_APP_BACKEND_URL = 'https://service-helper-o2s3-dev.fl0.io';
-  process.env.REACT_APP_GOOGLE_CLIENT_ID =
-    '851905021373-ad78jfs85qngd6qd5borfl9pvm38ga70.apps.googleusercontent.com';
-  process.env.REACT_APP_STRIPE_KEY =
-    'pk_test_51Nc8jeJ2lUOAfyqsO6Ns7YG4fhy7o607963CKgXp0IUNkG1vgBa2Vbd1dGGliICH8NzKh9Fiu54o0PJEcX0CvJeC00iG3DOFif';
-
   mainWindow = new BrowserWindow({
     show: false,
     width: 1024,
     height: 728,
     icon: getAssetPath('icon.png'),
     webPreferences: {
+      nodeIntegration: true,
       preload: app.isPackaged
         ? path.join(__dirname, 'preload.js')
         : path.join(__dirname, '../../.erb/dll/preload.js'),
     },
+  });
+
+  let isQuiting = false;
+
+  const contextMenu = Menu.buildFromTemplate([
+    {
+      label: 'Show App',
+      click: () => {
+        mainWindow?.show();
+      },
+    },
+    {
+      label: 'Quit',
+      click: () => {
+        isQuiting = true;
+        app.quit();
+      },
+    },
+  ]);
+
+  const tray = new Tray(getAssetPath('icon.png'));
+  tray.setToolTip('Service Helper');
+  tray.setContextMenu(contextMenu);
+
+  tray.on('click', (e) => {
+    if (!mainWindow) {
+      throw new Error('"mainWindow" is not defined');
+    }
+    if (mainWindow.isVisible()) {
+      mainWindow.hide();
+    } else {
+      mainWindow.show();
+    }
   });
 
   mainWindow.loadURL(resolveHtmlPath('index.html'));
@@ -93,6 +118,20 @@ const createWindow = async () => {
     } else {
       mainWindow.show();
     }
+  });
+
+  mainWindow.on('minimize', (event: any) => {
+    event.preventDefault();
+    mainWindow?.hide();
+  });
+
+  mainWindow.on('close', function (event) {
+    if (!isQuiting) {
+      event.preventDefault();
+      mainWindow?.hide();
+    }
+
+    return false;
   });
 
   mainWindow.on('closed', () => {

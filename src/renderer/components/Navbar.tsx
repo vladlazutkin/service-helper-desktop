@@ -69,7 +69,7 @@ const Navbar = ({
   onDarkModeSwitch,
 }: NavbarProps) => {
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(
-    null
+    null,
   );
   const [anchorElNotifications, setAnchorElNotification] =
     React.useState<null | HTMLElement>(null);
@@ -93,7 +93,7 @@ const Navbar = ({
   };
 
   const handleOpenNotificationsMenu = (
-    event: React.MouseEvent<HTMLElement>
+    event: React.MouseEvent<HTMLElement>,
   ) => {
     setAnchorElNotification(event.currentTarget);
   };
@@ -135,7 +135,7 @@ const Navbar = ({
   const location = useLocation();
   const data = matchRoutes(
     Object.values(RoutesPath).map((value) => ({ path: value })),
-    location
+    location,
   );
   const path = data ? data[0].route.path : '';
 
@@ -324,6 +324,7 @@ const getTitle = (path: RoutesPath) => {
     [RoutesPath.ADMIN_PANEL, 'Admin panel'],
     [RoutesPath.IMAGES, 'Images'],
     [RoutesPath.SETTINGS, 'Settings'],
+    [RoutesPath.DESKTOP_MANAGEMENT, 'Desktop Management'],
   ]);
 
   return map.get(path) ?? 'Title';

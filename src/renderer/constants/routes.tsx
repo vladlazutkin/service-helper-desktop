@@ -29,6 +29,7 @@ import Cubchik from '../pages/games/Cubchik';
 import Checkers from '../pages/games/Checkers';
 import AdminPanel from '../pages/admin/AdminPanel';
 import Games from '../pages/games/Games';
+import DesktopManagement from '../pages/DesktopManagement';
 
 export const routes: RouteObject[] = [
   {
@@ -180,5 +181,10 @@ export const routes: RouteObject[] = [
     path: RoutesPath.ADMIN_PANEL,
     role: USER_ROLE.ADMIN,
     page: <AdminPanel />,
+  },
+  {
+    path: RoutesPath.DESKTOP_MANAGEMENT,
+    role: USER_ROLE.USER,
+    page: <DesktopManagement />,
   },
 ];

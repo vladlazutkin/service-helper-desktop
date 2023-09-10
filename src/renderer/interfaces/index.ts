@@ -6,4 +6,5 @@ export * from './routes';
 export * from './table';
 export * from './trello';
 export * from './users';
+export * from './files';
 export * from './shared';

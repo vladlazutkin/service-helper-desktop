@@ -1,5 +1,6 @@
 export const config = {
-  REACT_APP_BACKEND_URL: 'https://service-helper-o2s3-dev.fl0.io',
+  // REACT_APP_BACKEND_URL: 'https://service-helper-o2s3-dev.fl0.io',
+  REACT_APP_BACKEND_URL: 'http://localhost:5001',
   REACT_APP_GOOGLE_CLIENT_ID:
     '851905021373-ad78jfs85qngd6qd5borfl9pvm38ga70.apps.googleusercontent.com',
   REACT_APP_STRIPE_KEY:

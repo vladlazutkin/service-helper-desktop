@@ -31,4 +31,5 @@ export enum RoutesPath {
   DOWNLOAD_YOUTUBE_AUDIO = '/download-youtube-audio',
   DOWNLOAD_YOUTUBE_VIDEOS_FROM_PLAYLIST = '/download-youtube-videos-from-playlist',
   DOWNLOAD_TIK_TOK_VIDEO = '/download-tik-tok-video',
+  DESKTOP_MANAGEMENT = '/desktop-management',
 }

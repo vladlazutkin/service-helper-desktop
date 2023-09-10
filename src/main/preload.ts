@@ -1,27 +1,52 @@
-import { contextBridge, ipcRenderer, IpcRendererEvent } from 'electron';
+import {
+  contextBridge,
+  ipcRenderer,
+  IpcRendererEvent,
+  Notification,
+  app,
+} from 'electron';
 
 export type Channels = 'ipc-example';
 
 const electronHandler = {
-  ipcRenderer: {
-    sendMessage(channel: Channels, ...args: unknown[]) {
-      ipcRenderer.send(channel, ...args);
-    },
-    on(channel: Channels, func: (...args: unknown[]) => void) {
-      const subscription = (_event: IpcRendererEvent, ...args: unknown[]) =>
-        func(...args);
-      ipcRenderer.on(channel, subscription);
+  openApp(path: string) {
+    return new Promise((resolve, reject) => {
+      try {
+        const child = require('child_process').execFile;
+        child(path, function (err: any, data: any) {
+          if (err) {
+            throw new Error(err);
+          }
+          resolve(true);
+        });
+        setTimeout(function () {
+          resolve(true);
+        }, 2000);
+      } catch (e) {
+        reject(e);
+      }
+    });
+  },
+  sendNotification({ title, body }: { title: string; body: string }) {
+    new Notification({ title, body }).show();
+  },
+  sendMessage(channel: Channels, ...args: unknown[]) {
+    ipcRenderer.send(channel, ...args);
+  },
+  on(channel: Channels, func: (...args: unknown[]) => void) {
+    const subscription = (_event: IpcRendererEvent, ...args: unknown[]) =>
+      func(...args);
+    ipcRenderer.on(channel, subscription);
 
-      return () => {
-        ipcRenderer.removeListener(channel, subscription);
-      };
-    },
-    once(channel: Channels, func: (...args: unknown[]) => void) {
-      ipcRenderer.once(channel, (_event, ...args) => func(...args));
-    },
+    return () => {
+      ipcRenderer.removeListener(channel, subscription);
+    };
+  },
+  once(channel: Channels, func: (...args: unknown[]) => void) {
+    ipcRenderer.once(channel, (_event, ...args) => func(...args));
   },
 };
 
-// contextBridge.exposeInMainWorld('electron', electronHandler);
+contextBridge.exposeInMainWorld('electron', electronHandler);
 
 export type ElectronHandler = typeof electronHandler;

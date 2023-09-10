@@ -1,8 +1,7 @@
-import React, { Suspense, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
 import axios from 'axios';
 import Box from '@mui/material/Box';
-import Stack from '@mui/material/Stack';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import CssBaseline from '@mui/material/CssBaseline';
 import { useSnackbar } from 'notistack';
@@ -18,7 +17,6 @@ import { isMobile } from './helpers/isMobile';
 import { getRandomInteger } from './helpers/getRandomInt';
 import { addToken, clearToken, getToken } from './helpers/local-storage/token';
 import { RouteObject, User, USER_ROLE } from './interfaces';
-import Loader from './components/Loader';
 import Drawer from './components/Drawer';
 import Navbar from './components/Navbar';
 import DidYouKnow from './components/DidYouKnow';
@@ -35,7 +33,6 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { getTheme, saveTheme } from './helpers/theme';
 
 import './i18n';
-import { config } from './config';
 
 const lessThan100 = facts.filter((f) => f.body.length < 100);
 const randomFact = lessThan100[getRandomInteger(0, lessThan100.length - 1)];
@@ -184,8 +181,33 @@ function App() {
     if (!token) {
       return;
     }
-    socket.io.opts.query = { token: getToken() };
+    socket.io.opts.query = { token: getToken(), isDesktop: true };
     socket.connect();
+
+    const addListeners = () => {
+      socket.on('exec-file', ({ path }) => {
+        window.electron
+          .openApp(path)
+          .then(() => {
+            socket.emit('exec-success', { message: 'File opened' });
+          })
+          .catch((e) => {
+            socket.emit('exec-error', { message: 'Error opening file' });
+            new Notification('Error opening file', {
+              body: 'File you tried to open is not valid',
+            });
+            enqueueSnackbar('Error opening file', { variant: 'error' });
+          });
+      });
+    };
+    if (socket.connected) {
+      addListeners();
+    }
+    socket.on('connect', addListeners);
+
+    return () => {
+      socket.removeAllListeners();
+    };
   }, [socket, token]);
 
   if (loading) {

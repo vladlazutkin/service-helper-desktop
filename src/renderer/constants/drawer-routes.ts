@@ -88,4 +88,9 @@ export const createDrawerRoutes = (): DrawerRoute[] => [
     path: RoutesPath.GAMES,
     title: i18n.t('drawer.games'),
   },
+  {
+    icon: VideogameAssetIcon,
+    path: RoutesPath.DESKTOP_MANAGEMENT,
+    title: i18n.t('drawer.desktopManagement'),
+  },
 ];
